@@ -26,6 +26,8 @@ OutputBaseFilename=ck3withdxvksetup
 Compression=lzma
 SolidCompression=yes
 WizardStyle=modern
+DiskSpanning=yes
+DiskClusterSize=300
 
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"
